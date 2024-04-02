@@ -1,0 +1,1 @@
+ /Users/youssef/Downloads/open_weather_example_flutter/.dart_tool/flutter_build/298204115a03a62fc2f55ddfb6fe688b/native_assets.yaml: 
