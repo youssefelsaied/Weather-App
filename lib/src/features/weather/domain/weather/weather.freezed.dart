@@ -150,6 +150,7 @@ class _$WeatherParamsImpl implements _WeatherParams {
   }
 
   @override
+  // ignore: non_nullable_equals_parameter
   bool operator ==(dynamic other) {
     return identical(this, other) ||
         (other.runtimeType == runtimeType &&

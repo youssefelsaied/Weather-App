@@ -18,3 +18,5 @@ class CityNotFoundException extends APIException {
 class UnknownException extends APIException {
   UnknownException() : super('Some error occurred');
 }
+
+
